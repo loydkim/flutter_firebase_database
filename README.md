@@ -21,10 +21,6 @@ https://console.firebase.google.com/u/0/
 - Android Studio: 3.5
 - OS Version: MacOS Catalina 10.15.3
 
-- Xcode Version: 11.3.1
-- Android Studio: 3.5
-- OS Version: MacOS Catalina 10.15.3
-
 Thank you for watching :)
 
 #Flutter, #Firebase, #Database
